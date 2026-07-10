@@ -8,7 +8,7 @@
 # Hi, I'm xelisme 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Cybersecurity+Enthusiast;CTF+Player+%26+Top+1+Place+LKSP+BaBel;+Cryptography+%26+Web+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=701&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=TKJ+Student;Cybersecurity+Enthusiast;CTF+Player+%26+Top+1+Place+LKSP+BaBel;+Cryptography+%26+Web+Security+Enthusiast" alt="Typing SVG" />
 </a>
 
 <p>
@@ -16,15 +16,15 @@
 </p>
 
 <p>
-  <a href="https://reyvien.me"><img src="https://img.shields.io/badge/Portfolio-reyvien.me-3B82F6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://reyvien.me"><img src="https://img.shields.io/badge/Portfolio-reyvien.me-2B82F6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://twitter.com/xelisme1"><img src="https://img.shields.io/badge/X-@xelisme1-0f172a?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.linkedin.com/in/xelisme/"><img src="https://img.shields.io/badge/ LinkedIn-xelisme-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/xelisme/"><img src="https://img.shields.io/badge/LinkedIn-xelisme-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=xelisme&label=Profile%20views&color=3b82f6&style=flat-square" alt="Profile views"/> 
 </p>
 
 </div>
 
-## 🧑‍💻 About Me
+## 🧑! About Me
 
 - 🔐 Cybersecurity Enthusiast and **CTF player** — Keep searching for question "Who am I".
 - 🧩 I build **cyber tools**, and the occasional exploit.
@@ -51,7 +51,7 @@
 <a href="https://github.com/xelisme/cyberchat-tui"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xelisme&repo=cyberchat-tui&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="cyberchat-tui"/></a>
 
 <a href="https://github.com/xelisme/caesar_decryptor"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xelisme&repo=caesar_decryptor&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="caesar_decryptor"/></a>
-<a href="https://github.com/xelisme/Rot-13-Decryptor"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rot-13-Decryptor&repo=ctfify&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="Rot-13-Decryptor"/></a>
+<a href="https://github.com/xelisme/Rot-13-Decryptor"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=xelisme&repo=Rot-13-Decryptor&hide_border=true&title_color=3B82F6&icon_color=60A5FA&text_color=c9d1d9&bg_color=0d1117" alt="Rot-13-Decryptor"/></a>
 
 </div>
 
