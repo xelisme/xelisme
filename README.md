@@ -96,4 +96,4 @@ I post **CTF writeups** on my github orgs.
   <a href="https://www.codewars.com/users/xelisme"><img src="https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white"/></a>
 </p>
 
-<div align="center"><sub>💭 <i>"No pain lasts forever, and no joy stays forever."</i></sub></div>
+<div align="center"><sub>💭 <i>"'Can machines think?"</i></sub></div>
