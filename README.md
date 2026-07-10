@@ -5,7 +5,7 @@
   <img src="./173147634.png" width="116" alt="xelisme pict">
 </picture>
 
-# Hi, I'm Reyvien Axelliano aka xelisme 👋
+# Hi, I'm Reyvien Axelliano / xelisme 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=701&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=TKJ+Student;Cybersecurity+Enthusiast;CTF+Player+%26+Top+1+Placer+LKSP+BaBel;+Cryptography+%26+Web+Security+Enthusiast" alt="Typing SVG" />
