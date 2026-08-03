@@ -92,7 +92,7 @@ I post **CTF writeups** on my github orgs.
   <a href="https://reyvien.me"><img src="https://img.shields.io/badge/-Portfolio-3B82F6?style=flat&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:xelisme1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/xelisme1"><img src="https://img.shields.io/badge/-X-0f172a?style=flat&logo=x&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/xelisme/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/reyvienaxelliano/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.codewars.com/users/xelisme"><img src="https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white"/></a>
 </p>
 
