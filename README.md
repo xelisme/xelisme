@@ -18,7 +18,7 @@
 <p>
   <a href="https://reyvien.me"><img src="https://img.shields.io/badge/Portfolio-reyvien.me-2B82F6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://twitter.com/xelisme1"><img src="https://img.shields.io/badge/X-@xelisme1-0f172a?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.linkedin.com/in/xelisme/"><img src="https://img.shields.io/badge/LinkedIn-xelisme-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/reyvienaxelliano/"><img src="https://img.shields.io/badge/LinkedIn-reyvienaxelliano-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=xelisme&label=Profile%20views&color=3b82f6&style=flat-square" alt="Profile views"/> 
 </p>
 
@@ -29,7 +29,7 @@
 - 🔐 Cybersecurity Enthusiast and **CTF player** — Keep searching for question "Who am I".
 - 🧩 I build **cyber tools**, and the occasional exploit.
 - 🐧 Living in the terminal: deep into **Linux**, **web security** and **cryptography**.
-- ✍️ I write writeups on [my github orgs](https://github.com/xelisme-CTF).
+- ✍️ I write writeups on [my github orgs](https://github.com/xelisme-CTF) and [my medium papers](https://xelisme.medium.com).
 - 📫 Reach me at **xelisme1@gmail.com**.
 
 ## 🛠️ Tech &amp; Tools
