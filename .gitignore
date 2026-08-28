@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+*.sublime-*
+
+# Build / cache
+.cache/
+.tmp/
+
+# Private portrait sources (keep the published profile picture committed)
+input/
+portrait-source.*
+*.source.png
+*.source.jpg
+*.source.jpeg
+portrait.png
+portrait.jpg
+profile.png
+avatar.png
+avatar.jpg
+headshot.png
+headshot.jpg
+*.transparent.png
