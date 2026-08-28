@@ -29,8 +29,7 @@
 ---
 
 <div align="justify" style="max-width: 800px; margin: 0 auto;">
-<p>Hey, <b>I'm Reyvien Axelliano, also known as xelisme.</b> I'm a cybersecurity enthusiat and CTF player competing in Crypto, Web, Forensic, OS Hardening, and Boot2Root. I build and learning exploit and scanning tooling, write CTF writeups, and share networking tutorials. Now, I'm preapering to compete in <b>Lomba CTF Techtonic 2026</b> from <b>HMTI Universitas Bangka Belitung.</b>
-</p>
+<p>Hey, <b>I'm Reyvien Axelliano, also known as xelisme.</b> I'm a cybersecurity enthusiat and CTF player competing in Crypto, Web, Forensic, OS Hardening, and Boot2Root. I build and learning exploit and scanning tooling, write CTF writeups, and share networking tutorials. Now, I'm preapering to compete in <b>Lomba CTF Techtonic 2026</b> from <b>HMTI Universitas Bangka Belitung.</b> At the past, I got <b>Medalian of Excellent</b> in <b>2026 Cyber Security National Competetion (LKSN).</b></p>
 
 > To become a security researcher who doesn't just run tools — but understands exactly why they work.
 </div>
