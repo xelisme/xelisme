@@ -66,27 +66,23 @@
       <td style="padding: 8px;"><a href="https://xelisme.medium.com"><img src="https://img.shields.io/badge/%F0%9F%93%9D_MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0B1220&color=000000" alt="Medium"/></a></td>
     </tr>
   </table>
+  
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=4000&pause=2000&color=22D3EE&center=true&vCenter=true&multiline=true&width=700&height=60&lines=💡+Got+a+vuln+to+find+or+a+CTF+to+solve%3F+Let's+talk!;🚀+Available+for+CTF+teams+%26+security+projects" alt="CTA"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=4000&pause=2000&color=22D3EE&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%F0%9F%92%A1+Got+a+vuln+to+find+or+a+CTF+to+solve%3F+Let's+talk!%3B%F0%9F%9A%80+Available+for+CTF+teams+%26+security+projects"
+    alt="CTA"
+  />
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xelisme&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xelisme&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E5E7EB&langs_count=8"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=xelisme&hide_border=true&stroke=22D3EE&background=0B1220&ring=7C3AED&fire=22D3EE&currStreakLabel=7C3AED&dates=E5E7EB&currStreakNum=22D3EE&sideNums=22D3EE&sideLabels=E5E7EB" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xelisme&theme=tokyonight&area=true&hide_border=true" width="100%">
 </div>
 
 ---
