@@ -54,20 +54,55 @@
   <a href="https://github.com/xelisme/Video-and-Photo-Sorter"><img src="https://img.shields.io/badge/VideoPhotoSorter-22D3EE?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/xelisme/BuKuTamu-IT_CLUB"><img src="https://img.shields.io/badge/BuKuTamu--IT--CLUB-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
-
 <div align="center">
   <table style="border-collapse: collapse; margin: 20px auto;">
     <tr>
-      <td style="padding: 8px;"><a href="https://github.com/xelisme"><img src="https://img.shields.io/badge/%F0%9F%92%BB_GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220&color=22D3EE" alt="GitHub"/></a></td>
-      <td style="padding: 8px;"><a href="https://www.linkedin.com/in/reyvienaxelliano/"><img src="https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1220&color=0A66C2" alt="LinkedIn"/></a></td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;"><a href="https://reyvien.me"><img src="https://img.shields.io/badge/%F0%9F%8C%90_WEBSITE-22D3EE?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0B1220&color=22D3EE" alt="Website"/></a></td>
-      <td style="padding: 8px;"><a href="https://xelisme.medium.com"><img src="https://img.shields.io/badge/%F0%9F%93%9D_MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0B1220&color=000000" alt="Medium"/></a></td>
-    </tr>
+<br>
+
+  <!-- GIF KIRI -->
+  <td style="padding: 15px; border: 1px solid #22D3EE;">
+    <img
+      src="https://github.com/user-attachments/assets/8d7ee60f-897c-4360-b88f-48840bdfd518"
+      width="220"
+      alt="Animation"
+    />
+  </td>
+
+  <!-- SOCIAL LINKS KANAN -->
+  <td style="padding: 15px; border: 1px solid #22D3EE;">
+    <table style="border-collapse: collapse;">
+      <tr>
+        <td style="padding: 8px;">
+          <a href="https://github.com/xelisme">
+            <img src="https://img.shields.io/badge/%F0%9F%92%BB_GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220&color=22D3EE" alt="GitHub"/>
+          </a>
+        </td>
+        <td style="padding: 8px;">
+          <a href="https://www.linkedin.com/in/reyvienaxelliano/">
+            <img src="https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1220&color=0A66C2" alt="LinkedIn"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 8px;">
+          <a href="https://reyvien.me">
+            <img src="https://img.shields.io/badge/%F0%9F%8C%90_WEBSITE-22D3EE?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0B1220&color=22D3EE" alt="Website"/>
+          </a>
+        </td>
+        <td style="padding: 8px;">
+          <a href="https://xelisme.medium.com">
+            <img src="https://img.shields.io/badge/%F0%9F%93%9D_MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0B1220&color=000000" alt="Medium"/>
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
+
+</tr>
+
   </table>
-  
 </div>
+
 
 <div align="center">
   <img
