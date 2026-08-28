@@ -1,0 +1,145 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Reyvien Axelliano",
+    "username": "xelisme",
+    "headline": "Cybersecurity Enthusiast · Web Exploiter",
+    "affiliation": "Independent · xelisme-CTF",
+    "location": "Indonesia",
+    "status": "LKSN Training · Active Competitor",
+    "about": [
+      "I'm Reyvien Axelliano, also known as xelisme — a cybersecurity student and CTF player competing in Crypto, Web, Forensic, OS Hardening, and Boot2Root. I'm currently training for LKSN, Indonesia's national skills competition.",
+      "I build exploit and scanning tooling, small web apps, write CTF writeups, and share networking tutorials. I believe every system has a story, and I learn mine by breaking things down with precision and curiosity."
+    ]
+  },
+  "research": {
+    "primary": "Offensive Security / CTF",
+    "direction": "Toward professional pentesting",
+    "themes": "CTF Tooling / Web Exploit / Crypto",
+    "narrative": "I'm drawn to systems that can be understood by taking them apart: finding the weak input, tracing the exploit path, and proving the impact with evidence. My long-term aim is to move from CTF competitor to a professional pentester and security researcher."
+  },
+  "focus": [
+    {
+      "name": "Crypto",
+      "description": "Cipher tooling (Caesar, ROT13) and CTF crypto challenges; learning via Cryptohack."
+    },
+    {
+      "name": "Web Exploit",
+      "description": "Web vulnerability scanning and exploitation; my primary focus area."
+    },
+    {
+      "name": "Forensic / Hardening",
+      "description": "CTF forensics, OS hardening, and Boot2Root challenge categories."
+    },
+    {
+      "name": "Networking",
+      "description": "VLAN, VTP, and routing fundamentals behind infrastructure hardening."
+    },
+    {
+      "name": "Web Apps",
+      "description": "Small web tools and utilities built for learning, clubs, and everyday use."
+    }
+  ],
+  "projects": [
+    {
+      "name": "cyberchat-tui",
+      "url": "https://github.com/xelisme/cyberchat-tui",
+      "homepage": "",
+      "focus": "Secure team comms TUI",
+      "summary": "Native Linux TUI chat and file transfer over WebSocket/Tailscale with an optional Discord bridge.",
+      "heroLabel": "Secure comms"
+    },
+    {
+      "name": "webvulnscanner",
+      "url": "https://github.com/xelisme/webvulnscanner",
+      "homepage": "",
+      "focus": "Web exploit tooling",
+      "summary": "Python scanner for SQLi, XSS, RCE, LFI, command injection, and IDOR with JSON reports.",
+      "heroLabel": "Web scanner"
+    },
+    {
+      "name": "MikroTik-Praktik",
+      "url": "https://github.com/xelisme/MikroTik-Praktik",
+      "homepage": "",
+      "focus": "Learning web app",
+      "summary": "Web app that generates MikroTik practice questions with a web interface for networking students.",
+      "heroLabel": "Practice generator"
+    },
+    {
+      "name": "Pundi",
+      "url": "https://github.com/xelisme/Pundi",
+      "homepage": "",
+      "focus": "Personal finance app",
+      "summary": "Income and expense tracker that allocates spending into percentage-based wallets (kantong).",
+      "heroLabel": "Budget tracker"
+    },
+    {
+      "name": "VideoPhotoSorter",
+      "url": "https://github.com/xelisme/Video-and-Photo-Sorter",
+      "homepage": "",
+      "focus": "Media utility",
+      "summary": "Sorts photos and videos for editors, photographers, and videographers. Built with AI assistance.",
+      "heroLabel": "Media sorter"
+    },
+    {
+      "name": "BuKuTamu-IT_CLUB",
+      "url": "https://github.com/xelisme/BuKuTamu-IT_CLUB",
+      "homepage": "",
+      "focus": "Club web app",
+      "summary": "Guest-book web app for an IT club. Built with AI — vibecoded from a natural-language brief.",
+      "heroLabel": "Guest book"
+    }
+  ],
+  "techStack": [
+    "Python",
+    "Bash",
+    "JavaScript",
+    "PyQt5",
+    "SQLite",
+    "Kali Linux",
+    "Burp Suite",
+    "Metasploit",
+    "Git",
+    "GitHub",
+    "Tailscale",
+    "WebSocket"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "xelisme",
+      "url": "https://github.com/xelisme",
+      "logo": "github",
+      "color": "0B1220"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "reyvienaxelliano",
+      "url": "https://www.linkedin.com/in/reyvienaxelliano/",
+      "logo": "linkedin",
+      "color": "0A66C2"
+    },
+    {
+      "label": "Medium",
+      "value": "xelisme",
+      "url": "https://xelisme.medium.com",
+      "logo": "medium",
+      "color": "000000"
+    },
+    {
+      "label": "Site",
+      "value": "reyvien.me",
+      "url": "https://reyvien.me",
+      "logo": "web",
+      "color": "22D3EE"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "signal"
+  },
+  "footer": "CTF player, tool builder, and perpetual learner."
+}
